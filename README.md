@@ -4,7 +4,7 @@ sparkle text and image :)
 
 ## reference
 
-[here](https://nantokaworks.github.io/kirarin/)
+[here](https://ichi0g0y.github.io/kirarin/)
 
 ## Setup
 
